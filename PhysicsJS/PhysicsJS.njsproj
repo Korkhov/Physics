@@ -33,10 +33,10 @@
   <ItemGroup>
     <Compile Include="app.js" />
     <None Include="physicstest2 - Web Deploy.pubxml" />
-    <Content Include="public\javascripts\main.js" />
     <Compile Include="models\errors.js" />
     <Compile Include="models\question.js" />
     <Compile Include="models\validators.js" />
+    <Content Include="public\javascripts\main.js" />
     <Compile Include="routes\index.js" />
   </ItemGroup>
   <ItemGroup>
@@ -79,7 +79,6 @@
     <Folder Include="models\" />
     <Folder Include="public\" />
     <Folder Include="public\fonts\" />
-    <Folder Include="public\images\" />
     <Folder Include="public\javascripts\" />
     <Folder Include="public\stylesheets\" />
     <Folder Include="routes\" />

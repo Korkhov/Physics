@@ -1,0 +1,33 @@
+﻿extends layout
+
+block content
+  .jumbotron.start-menu
+    h1 Физика
+    p.lead Проверим-ка твои знания по физике
+    p
+      button.btn.btn-primary.btn-large.start-test Начать &raquo;
+  
+  .jumbotron.test(hidden)
+    h4 Вопрос 
+      span.qst-curr-num 
+      span  из 
+      span.qst-all-num 
+    h2.qst-txt
+    p
+      button.btn.btn-default.qst-ans-btn.0-ans-btn
+    p
+      button.btn.btn-default.qst-ans-btn.1-ans-btn
+    p
+      button.btn.btn-default.qst-ans-btn.2-ans-btn
+    p
+      button.btn.btn-default.qst-ans-btn.3-ans-btn
+    hr.next-qst
+    p.next-qst
+      button.btn.btn-primary.next-qst-btn Дальше &raquo;
+  
+  .jumbotron.summary(hidden)
+    h2 Поздравляю. Твой результат: 
+      span.qst-corr-num
+      span  из 
+      span.qst-all-num
+    button.btn.btn-primary.start-test Ещё разок &raquo;
