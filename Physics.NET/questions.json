@@ -1,0 +1,112 @@
+﻿[
+    {
+        "id": "0",
+        "text": "В чём измеряется сила",
+        "answers": [
+            {
+                "text": "Ньютон",
+                "isCorrect": true
+            },
+            {
+                "text": "Метр",
+                "isCorrect": false
+            },
+            {
+                "text": "Килограмм",
+                "isCorrect": false
+            },
+            {
+                "text": "Нет верного ответа",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "1",
+        "text": "В чём измеряется сила тока",
+        "answers": [
+            {
+                "text": "Ампер",
+                "isCorrect": true
+            },
+            {
+                "text": "Вольт",
+                "isCorrect": false
+            },
+            {
+                "text": "Ватт",
+                "isCorrect": false
+            },
+            {
+                "text": "Ом",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "2",
+        "text": "В чём измеряется напряжение",
+        "answers": [
+            {
+                "text": "Ампер",
+                "isCorrect": false
+            },
+            {
+                "text": "Вольт",
+                "isCorrect": true
+            },
+            {
+                "text": "Ватт",
+                "isCorrect": false
+            },
+            {
+                "text": "Ом",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "id": "3",
+        "text": "В чём измеряется сопротивление проводника",
+        "answers": [
+            {
+                "text": "Ампер",
+                "isCorrect": false
+            },
+            {
+                "text": "Вольт",
+                "isCorrect": false
+            },
+            {
+                "text": "Ватт",
+                "isCorrect": false
+            },
+            {
+                "text": "Ом",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "id": "4",
+        "text": "В чём измеряется мощность",
+        "answers": [
+            {
+                "text": "Ампер",
+                "isCorrect": false
+            },
+            {
+                "text": "Вольт",
+                "isCorrect": false
+            },
+            {
+                "text": "Ватт",
+                "isCorrect": true
+            },
+            {
+                "text": "Ом",
+                "isCorrect": false
+            }
+        ]
+    }
+]
